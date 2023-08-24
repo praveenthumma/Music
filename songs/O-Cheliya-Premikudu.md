@@ -1,6 +1,8 @@
 # Swaram for O cheliya na Priya Sakhiya
 ## All small letters indicate smaller notes like r g m d n indicate chinna r, chinna g respectively. All capital letters indicate bigger notes. As there are only One Sa and Pa, they are represented as S and P only.
 
+[Tutorial Video](https://www.youtube.com/watch?v=NAaf1OibqKg)
+
 ### PALLAVI
 
 ```
